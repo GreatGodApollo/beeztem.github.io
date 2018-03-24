@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/beeztem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://beeztem.github.io
+  * I am beeztem (https://keybase.io/beeztem) on keybase.
+  * I have a public key ASAoGHtAyiZnOMM9HqbBAT2N6h45LFh7YlyjFNfdUqCalAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012028187b40ca266738c33d1ea6c1013d8dea1e392c587b625ca314d7dd52a09a940a",
+      "host": "keybase.io",
+      "kid": "012028187b40ca266738c33d1ea6c1013d8dea1e392c587b625ca314d7dd52a09a940a",
+      "uid": "1d2040b675f0ae30f0c5783643041419",
+      "username": "beeztem"
+    },
+    "merkle_root": {
+      "ctime": 1521866101,
+      "hash": "54d0467d35f01fcea1dd7b8e28cb09615e079f0319b2c43704f2c7140c15888325494103d5ec1db5a930bf5b67e38f432b01cfcd6efb70467c6db84fef8c9603",
+      "hash_meta": "bd7c84532d4fa3614a80e126ad909b25c3804196e8c3d7d16fa8d2322d03adb7",
+      "seqno": 2281437
+    },
+    "service": {
+      "hostname": "beeztem.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521866102,
+  "expire_in": 504576000,
+  "prev": "5a6978dae265f2560fc7216310a89ff6f62e173e111964fa50c53e898ba19452",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKBh7QMomZzjDPR6mwQE9jeoeOSxYe2JcoxTX3VKgmpQKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMjgxODdiNDBjYTI2NjczOGMzM2QxZWE2YzEwMTNkOGRlYTFlMzkyYzU4N2I2MjVjYTMxNGQ3ZGQ1MmEwOWE5NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMjgxODdiNDBjYTI2NjczOGMzM2QxZWE2YzEwMTNkOGRlYTFlMzkyYzU4N2I2MjVjYTMxNGQ3ZGQ1MmEwOWE5NDBhIiwidWlkIjoiMWQyMDQwYjY3NWYwYWUzMGYwYzU3ODM2NDMwNDE0MTkiLCJ1c2VybmFtZSI6ImJlZXp0ZW0ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MjE4NjYxMDEsImhhc2giOiI1NGQwNDY3ZDM1ZjAxZmNlYTFkZDdiOGUyOGNiMDk2MTVlMDc5ZjAzMTliMmM0MzcwNGYyYzcxNDBjMTU4ODgzMjU0OTQxMDNkNWVjMWRiNWE5MzBiZjViNjdlMzhmNDMyYjAxY2ZjZDZlZmI3MDQ2N2M2ZGI4NGZlZjhjOTYwMyIsImhhc2hfbWV0YSI6ImJkN2M4NDUzMmQ0ZmEzNjE0YTgwZTEyNmFkOTA5YjI1YzM4MDQxOTZlOGMzZDdkMTZmYThkMjMyMmQwM2FkYjciLCJzZXFubyI6MjI4MTQzN30sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJiZWV6dGVtLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQ1In0sImN0aW1lIjoxNTIxODY2MTAyLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjVhNjk3OGRhZTI2NWYyNTYwZmM3MjE2MzEwYTg5ZmY2ZjYyZTE3M2UxMTE5NjRmYTUwYzUzZTg5OGJhMTk0NTIiLCJzZXFubyI6MTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RALuyyEh51hTaipwkT7TXq3Al0nKHBnhklcqg7VYba3IxyobGgaDXn3UoNys9fEKDhVj0GaVAv0qYkoYBOM+vrAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAkqa1eQfUjQUkHkY2lMQ+A+uNvxTds2ysdeBGElIxhwo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/beeztem
+
+==================================================================
